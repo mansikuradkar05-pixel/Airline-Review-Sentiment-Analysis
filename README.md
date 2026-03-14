@@ -9,11 +9,11 @@ TextBlob
 Matplotlib
 Google Colab
 # Methodology
-Load and explore the airline review dataset.
-Clean and preprocess the review text.
-Apply sentiment analysis to determine the polarity of each review.
-Classify reviews into positive, negative, or neutral categories.
-Visualize the sentiment distribution using charts.
+1. Load and explore the airline review dataset.
+2. Clean and preprocess the review text.
+3. Apply sentiment analysis to determine the polarity of each review.
+4. Classify reviews into positive, negative, or neutral categories.
+5. Visualize the sentiment distribution using charts.
 # Results
 The sentiment analysis provides insights into customer experiences by showing the proportion of positive, negative, and neutral reviews. This helps in understanding overall passenger satisfaction.
 # Conclusion

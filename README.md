@@ -1,19 +1,20 @@
 # Project Overview
-This project performs sentiment analysis on airline passenger reviews to understand customer opinions. The reviews are analyzed using Python to classify sentiments as positive, negative, or neutral. Data visualization is used to show the distribution of sentiments.
+This project focuses on analyzing airline passenger reviews to understand customer sentiment. Using Natural Language Processing techniques, the reviews are classified into positive, negative, and neutral sentiments. The analysis helps identify customer satisfaction and common issues faced by passengers.
 # Dataset
-The dataset contains airline passenger reviews including text feedback and other related information. The review text is used to analyze customer sentiment.
+The dataset contains airline passenger reviews with textual feedback. The review text is used as the main input for sentiment analysis to evaluate passenger opinions about airline services.
 # Tools and Technologies
 Python
 Pandas
 TextBlob
 Matplotlib
 Google Colab
-# Project Steps
-Load the airline reviews dataset.
+# Methodology
+Load and explore the airline review dataset.
 Clean and preprocess the review text.
-Perform sentiment analysis to classify reviews.
-Create visualizations to show sentiment distribution.
-# Result
-The analysis helps identify overall customer satisfaction by showing how many reviews are positive, negative, or neutral.
+Apply sentiment analysis to determine the polarity of each review.
+Classify reviews into positive, negative, or neutral categories.
+Visualize the sentiment distribution using charts.
+# Results
+The sentiment analysis provides insights into customer experiences by showing the proportion of positive, negative, and neutral reviews. This helps in understanding overall passenger satisfaction.
 # Conclusion
-Sentiment analysis helps airlines understand passenger feedback and improve services based on customer opinions.
+Sentiment analysis of airline reviews can help airlines identify strengths and areas that require improvement, ultimately improving customer experience.
